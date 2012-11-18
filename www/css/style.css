@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {height: 100%}
+body {
+    font: 12px Arial;
+    height: 100%;
+}
+
+img {
+    border: none;
+}
+
+#wrapper {
+    width: 100%;
+    min-width: 1000px;
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+}
+
+#header {
+    height: 40px;
+    padding: 20px;
+    background: #3F707F;
+}
+
+#content {
+    padding: 20px 0 70px 20px;
+}
+
+#footer-wrapper {
+    margin: -70px auto 0;
+    min-width: 1000px;
+    height: 70px;
+    background: #BFF08E;
+
+    text-align: right;
+}
+
+#footer {
+    padding: 20px;
+}
+
+h1 {
+    padding-bottom: 10px;
+}
